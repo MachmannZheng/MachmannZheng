@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MachmannZheng
 - 👀 I’m interested in NBA
-- 🌱 I’m currently learning LabVIEW/Python
+- 🌱 I’m currently using LabVIEW/Python/Golang
 - 💞️ I’m looking to collaborate on Testing Project
 - 📫 How to reach me 18651125503@163.com
 
